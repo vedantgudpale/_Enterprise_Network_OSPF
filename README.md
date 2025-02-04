@@ -29,7 +29,7 @@ OSPF routing protocol is configured in multiple areas with a backbone area, ensu
 - **Connectivity Testing:** Connectivity tested using ping and traceroute.
 
 ## Getting Started
-1. Download and open the `6_Enterprise_Network_OSPF.pkt` file in Cisco Packet Tracer.
+1. Download and open the `_Enterprise_Network_OSPF.pkt` file in Cisco Packet Tracer.
 2. Make sure you have Cisco Packet Tracer installed on your system (version 8.2.2 or later recommended).
 3. Explore the topology and understand the configurations for OSPF and VLANs.
 4. You can modify and extend the network as per your requirements.
